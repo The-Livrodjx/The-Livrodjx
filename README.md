@@ -1,9 +1,6 @@
 # Livrodjx
 
-<!--
-**The-Livrodjx/The-Livrodjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=portfolio)](http://livrodjx.ga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=portfolio)](http://livrodjx.ga/?i=1)
 
 ### Welcome to my profile 
 
