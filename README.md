@@ -1,4 +1,4 @@
-<h1 style="margin: auto;"># Livrodjx</h1>
+# Livrodjx
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=portfolio)](http://livrodjx.ga/?i=1)
 
