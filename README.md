@@ -20,3 +20,7 @@
 
 ### My GitHub Stats: 📈 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=The-Livrodjx&show_icons=true&theme=gotham&repo=github-readme-stats" alt="Livrodjx Stats" />
+  
+<a href="https://github.com/The-Livrodjx/The-Livrodjx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Livrodjx&hide=%27%27" alt="Livrodjx's GitHub Stats" />
+</a>
